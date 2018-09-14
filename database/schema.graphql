@@ -1,5 +1,5 @@
 # source: http://localhost:4466
-# timestamp: Tue Sep 11 2018 14:02:48 GMT+0200 (Central European Summer Time)
+# timestamp: Fri Sep 14 2018 03:33:10 GMT-0700 (Pacific Daylight Time)
 
 type AggregateColor {
   count: Int!
